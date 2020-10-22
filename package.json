@@ -1,11 +1,19 @@
 {
   "name": "zendental",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leediageorge/growthplugtest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leediageorge/growthplugtest/issues"
+  },
+  "homepage": "https://github.com/leediageorge/growthplugtest#readme",
+  "description": ""
 }
